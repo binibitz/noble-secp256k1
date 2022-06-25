@@ -41,6 +41,9 @@
     "ts-jest": "28.0.4",
     "typescript": "4.7.3"
   },
+  "dependencies": {
+    "big-integer": "^1.6.51"
+  },
   "keywords": [
     "secp256k1",
     "secp",
